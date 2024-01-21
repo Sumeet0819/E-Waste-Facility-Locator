@@ -1,0 +1,18 @@
+h1 {
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+main {
+  margin-left: 10px;
+  margin-top: 10px;
+  padding:  2rem 1.5rem;
+  background: #ffffff;
+  height: 900px;
+  width: 1275px;
+  
+}
+
+th {
+  background: #e6eaed;
+}
